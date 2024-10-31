@@ -1,7 +1,7 @@
 .btn1 {
     color: white;
-    text-decoration: none;
-    background-color: orangered;
+    /* text-decoration: none; */
+    background-color: darkred;
     display: inline-block;
     padding: 15px 30px;
     margin-top: 1px;
@@ -18,13 +18,13 @@
 .btn2 {
     color: white;
     text-decoration: none;
-    background-color: orangered;
+    background-color: navy;
     display: inline-block;
     padding: 15px 30px;
     margin-top: 1px;
     box-shadow: 0 10px black;
     position: absolute;
-    left: 150px;
+    left: 120px;
   }
 
 .btn2:active {
@@ -36,7 +36,7 @@
 .btn3 {
     color: white;
     text-decoration: none;
-    background-color: orangered;
+    background-color: darkred;
     display: inline-block;
     padding: 15px 30px;
     margin-top: 1px;
