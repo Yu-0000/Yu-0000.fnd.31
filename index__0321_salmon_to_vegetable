@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="finalSubject_0321.css" type="text/css">
+</head>
+
+<body>
+  <h1>今晩の献立</h1>
+  <h2>食材をクリックするだけで献立が見つけられる！ </h2>
+  <h2>STEP3：野菜の種類を選択してください。</h2>
+  <button class="btn1" onclick="location.href='https://cookpad.com/jp/search/%E9%AE%AD%E3%80%80%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82'">じゃがいも</button>
+  <button class="btn2" onclick="location.href='https://cookpad.com/jp/search/%E9%AE%AD%E3%80%80%E7%8E%89%E3%81%AD%E3%81%8E'">玉ねぎ</button>
+  <button class="btn3" onclick="location.href='https://cookpad.com/jp/search/%E9%AE%AD%E3%80%80%E3%81%AB%E3%82%93%E3%81%98%E3%82%93'">にんじん</button>
+</body>
+
+</html>
