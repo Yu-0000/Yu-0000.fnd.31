@@ -1,8 +1,10 @@
 .btn1 {
+    font-size: 30px;
     color: white;
     text-decoration: none;
     background-color: orangered;
     display: inline-block;
+    border-radius:20px;
     padding: 15px 30px;
     margin-top: 1px;
     box-shadow: 0 10px black;
@@ -16,15 +18,17 @@
   }
 
 .btn2 {
+    font-size: 30px;
     color: white;
     text-decoration: none;
     background-color: orangered;
     display: inline-block;
+    border-radius:20px;
     padding: 15px 30px;
     margin-top: 1px;
     box-shadow: 0 10px black;
     position: absolute;
-    left: 150px;
+    left: 175px;
   }
 
 .btn2:active {
@@ -34,15 +38,17 @@
   }
 
 .btn3 {
+    font-size: 30px;
     color: white;
     text-decoration: none;
     background-color: orangered;
     display: inline-block;
+    border-radius:20px;
     padding: 15px 30px;
     margin-top: 1px;
     box-shadow: 0 10px black;
     position: absolute;
-    left: 300px;
+    left: 340px;
   }
 
 .btn3:active {
